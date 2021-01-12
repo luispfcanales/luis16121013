@@ -29,9 +29,6 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 [<img src="https://img.shields.io/badge/Twitter-@luispfcanales-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=luis16121013&&style=flat" align="center" />
-</p>  
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  **Github Stats:**
  <p align="center">
