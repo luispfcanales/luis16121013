@@ -1,17 +1,10 @@
 ## <p align="center">️ **Hello!!👋 I'm Luis Pfuño Canales** 🎯️🚀️</p>
 
-</br>
-
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'm aspiring 🔭️ Back-End Web Developer currently learning 🌱 **Go**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm love to learn new 💻 **Technologies**.
-
-
-
-</br>
 
 ##  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  **Languages & Tools:** 
 <p align="center"> 
@@ -19,8 +12,7 @@
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />  
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />   
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40"  />  
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40px"/>
-   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
    <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40"  />  
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" />
 </p>
