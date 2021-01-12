@@ -9,8 +9,12 @@
 ##  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  **Languages & Tools:** 
 <p align="center"> 
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />  
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />  
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />   
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Boostrap" width="40" />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="Go" width="40" />  
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" width="40" />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" width="40" />
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40"  />  
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
    <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40"  />  
@@ -24,7 +28,7 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  **Github Stats:**
  <p align="center">
-  <a href="https://github.com/luis16121013">
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=luis16121013&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
