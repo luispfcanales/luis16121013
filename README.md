@@ -29,16 +29,16 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">  **Github Stats:**
  <p align="center">
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=luis16121013&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=luispfcanales&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luis16121013&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luispfcanales&layout=compact&theme=radical" />
   </a>
  </p>
 
 
 <!-- Links of Definitions -->
 [gmail]: mailto:luispfcanales@gmail.com "Lets connect through email"
-[github]: https://github.com/luis16121013
+[github]: https://github.com/luispfcanales
 [twitter]: https://twitter.com/luispfcanales
 
