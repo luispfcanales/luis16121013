@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpeg" >
+</p>
+
 ## <p align="center">️ **Hello!!👋 I'm Luis Pfuño Canales** 🎯️🚀️</p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
