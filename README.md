@@ -36,7 +36,7 @@
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=luispfcanales&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luispfcanales&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luispfcanales&layout=compact&theme=radical&hide=vim%20script,hack,css,html,scss,shell" />
   </a>
  </p>
 
